@@ -59,6 +59,9 @@ img {
   border-bottom: 2px #fff solid;
 }
 
+.navbar .flex {
+  justify-content: space-between;
+}
 .container {
   max-width: 1100 px;
   margin: 0 auto;
